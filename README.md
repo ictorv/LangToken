@@ -28,6 +28,12 @@ This project includes a robust implementation, detailed documentation, and unit 
 | `decode()`            | Converts a list of integers back into the original text.                                                                                           | `ids` (list): List of integer tokens.                                                                                                                                                        | `str`: Decoded text.                 |
 
 ---
+## 🚀 Quick Start
+
+Install the library using pip:
+```python
+pip install LangToken
+```
 
 ## Use
 ```python
