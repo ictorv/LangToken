@@ -16,7 +16,7 @@ This project includes a robust implementation, detailed documentation, and unit 
 - **Special Tokens**: Includes `<|unk|>` for unknown words and `<|endoftext|>` for file-ending markers.
 
 ## Class Diagram
-![Diagram](image\diagram.png)
+![Diagram](image/diagram.png)
 
 
 ## Use
